@@ -2,5 +2,4 @@ app_draft.py
 archive\ (1).zip
 Raw_Data/
 __pycache__/
-data/
-models/
+/data/reviews.parquet
