@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-A full-stack anime recommendation web application that helps users discover anime they'll love through multiple intelligent recommendation strategies. The system addresses the **cold-start problem** common in recommendation engines by combining content-based filtering, association rule mining, Bayesian scoring, and semantic search — all wrapped in an interactive Streamlit UI.
+A full-stack anime recommendation web application that helps users discover anime they'll love through multiple intelligent recommendation strategies. The system addresses the cold-start problem common in recommendation engines by combining content-based filtering, association rule mining, Bayesian scoring, and semantic search — all wrapped in an interactive Streamlit UI.
 
 **Key outcomes:**
 - Users can find similar anime based on titles they already enjoy
@@ -18,7 +18,7 @@ A full-stack anime recommendation web application that helps users discover anim
 
 ## 📂 Dataset
 
-> 📎 **Dataset:** [_Add dataset link here (e.g., Kaggle)_]
+> 📎 **Dataset:** https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews
 
 The dataset contains three components:
 
@@ -183,9 +183,3 @@ Mined co-occurrence patterns from user favourite lists using FP-Growth with `min
 - **Trailer Integration** — Embed YouTube trailers on detail pages via the MyAnimeList or Jikan API
 - **Containerisation** — Dockerise the app for easier deployment and reproducibility
 
-
----
-
-## 📄 License
-
-This project is for educational and portfolio purposes.
