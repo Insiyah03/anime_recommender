@@ -1,6 +1,6 @@
 # 🍜 Anime Recommendation System
 
-> 🚀 **Live Demo:** [_Add deployment link here_]
+> 🚀 **Live Demo:** https://animerecommender-2025.streamlit.app/
 
 ---
 
